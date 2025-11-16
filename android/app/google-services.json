@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760709742016",
+    "project_id": "linkhub-pavani",
+    "storage_bucket": "linkhub-pavani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760709742016:android:50aa2a4d0b6ff0b1afdc25",
+        "android_client_info": {
+          "package_name": "com.example.linkhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhb-57fP9NZ01cvgzBpfgWh3o9Zp6lmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
